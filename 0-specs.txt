@@ -1,0 +1,15 @@
+Create a Python GUI app.
+
+Add a row of label and textbox called Folder:
+Add a row with multi-line textbox call Structure:
+
+Add a row and a button called Generate
+
+When generate is clicked, 
+call function doGenerate():
+
+doGenerate code logic is
+- if Folder is empty, set focus on the folder text and return False
+- the structure textbox will be processed. this is a tree file listings of subdirectory and subfiles. create those empty files and subdirectory accordingly.
+
+Add another row, this is message for saying if Generate Successful or not.
